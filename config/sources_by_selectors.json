@@ -193,6 +193,18 @@
             }
         },
         {
+            "name": "珠海研院",
+            "full_name": "北京理工大学（珠海）研究生院",
+            "url": "https://grd.bitzh.edu.cn/tzgg/index.htm",
+            "guide": ["研究生院官网", "通知公告"],
+            "selectors": {
+                "rows": ".page-list33 ul.block-list > li",
+                "link": "a",
+                "title": ".title",
+                "date": null
+            }
+        },
+        {
             "name": "通用",
             "full_name": "主站最新通知",
             "guide": [
