@@ -1,0 +1,44 @@
+name: Update notices
+
+on:
+  schedule:
+    - cron: '17 */2 * * *'   # 每 2 小时一次；分钟避开整点减少延迟
+  workflow_dispatch:          # 手动触发按钮
+
+permissions:
+  contents: write             # 允许 GITHUB_TOKEN 提交回仓库
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x  # 若后续报兼容性错误，改成 v1.46.3 再试
+
+      - name: Generate secrets file
+        run: |
+          cat > config/ding.secrets.yaml <<EOF
+          webhook: ${{ secrets.DING_WEBHOOK }}
+          secret: ${{ secrets.DING_SECRET }}
+          EOF
+          # ── 仅方案 A 需要：取消以下注释 ──
+          # cat > config/proxy.secrets.yaml <<EOF
+          # username: ${{ secrets.PROXY_USERNAME }}
+          # password: ${{ secrets.PROXY_PASSWORD }}
+          # EOF
+
+      - name: Install dependencies
+        run: deno install
+
+      - name: Fetch + RSS + DingTalk
+        run: deno task update-server-ding
+
+      - name: Commit results back to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f output/
+          git diff --cached --quiet || (git commit -m "chore: 更新通知数据" && git push)
