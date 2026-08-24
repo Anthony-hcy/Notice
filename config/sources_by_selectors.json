@@ -262,6 +262,74 @@
                 "date": ".date",
                 "title": ".title"
             }
+        },
+        {
+          "name": "Bit_报到须知",
+          "full_name": "迎新网·报到须知",
+          "url": "https://hi.bit.edu.cn/rxbd/bdxz/index.htm",
+          "selectors": { "rows": ".rt01_list > ul > li" }
+        },
+        {
+          "name": "Bit_入学提示",
+          "full_name": "迎新网·入学提示",
+          "url": "https://hi.bit.edu.cn/rxbd/rxts/index.htm",
+          "selectors": { "rows": ".rt01_list > ul > li" }
+        },
+        {
+          "name": "Bit_助困入学",
+          "full_name": "迎新网·助困入学",
+          "url": "https://hi.bit.edu.cn/zkjx/zkrx/index.htm",
+          "selectors": { "rows": ".rt01_list > ul > li" }
+        },
+        {
+          "name": "Bit_贫困资助",
+          "full_name": "迎新网·贫困资助",
+          "url": "https://hi.bit.edu.cn/zkjx/pkzz/index.htm",
+          "selectors": { "rows": ".rt01_list > ul > li" }
+        },
+        {
+          "name": "Bit_奖学设置",
+          "full_name": "迎新网·奖学设置",
+          "url": "https://hi.bit.edu.cn/zkjx/jxsz/index.htm",
+          "selectors": { "rows": ".rt01_list > ul > li" }
+        },
+        {
+          "name": "Bit_勤工助学",
+          "full_name": "迎新网·勤工助学",
+          "url": "https://hi.bit.edu.cn/zkjx/qgzx/index.htm",
+          "selectors": { "rows": ".rt01_list > ul > li" }
+        },
+        {
+          "name": "Bit_研院培养",
+          "full_name": "北京理工大学研究生院·培养信息",
+          "url": "https://grd.bit.edu.cn/pygz/pyxx/index.htm",
+          "selectors": {
+            "rows": ".page-list5 .block-list > li",
+            "title": ".gpArticleTitle",
+            "date": ".gpArticleDate"
+          }
+        },
+        {
+          "name": "Bitzh_研院招生",
+          "full_name": "北京理工大学（珠海）研究生院·硕士研究生招生",
+          "url": "https://grd.bitzh.edu.cn/zsgz/ssyjs/index.htm",
+          "selectors": {
+            "rows": ".page-list33 ul.block-list > li",
+            "link": "a",
+            "title": ".title",
+            "date": null
+          }
+        },
+        {
+          "name": "Bitzh_研院培养",
+          "full_name": "北京理工大学（珠海）研究生院·培养信息",
+          "url": "https://grd.bitzh.edu.cn/pygz/pyxx/index.htm",
+          "selectors": {
+            "rows": ".page-list33 ul.block-list > li",
+            "link": "a",
+            "title": ".title",
+            "date": null
+          }
         }
     ]
 }
