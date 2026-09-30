@@ -3234,3 +3234,95 @@
 {"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_研院培养”。","plugin":"cli","timestamp":"2026-09-29T02:43:42.757Z"}
 {"level":"info","message":"已按需保存到“output/notices.json”。","plugin":"cli","timestamp":"2026-09-29T02:43:42.760Z"}
 {"level":"info","message":"已保存到“output/feed.rss”。","plugin":"rss","timestamp":"2026-09-29T02:43:42.763Z"}
+{"level":"info","message":"发现35个通知来源。","plugin":"cli","timestamp":"2026-09-30T02:21:22.687Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_精工”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.690Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_研究生院”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.690Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bitzh_研究生院”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.690Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_通用”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.690Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_教务部”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.690Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_教学中心”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.690Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_学工部等”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.690Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_学生服务”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_大创”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_资助公示”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_网信”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_人事”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_公开数据”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_公开通知”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_校医院”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_新生”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_机车”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_人文素质”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_课程”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_招采”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_资实”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_报到须知”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_入学提示”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_助困入学”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_贫困资助”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_奖学设置”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_勤工助学”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_研院培养”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bitzh_研院招生”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bitzh_研院培养”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“党政部”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“数学实验”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“图书馆”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“图书馆讲座”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“延河”。","plugin":"cli","timestamp":"2026-09-30T02:21:22.691Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bitzh_研究生院”。","plugin":"cli","timestamp":"2026-09-30T02:21:24.400Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bitzh_研院招生”。","plugin":"cli","timestamp":"2026-09-30T02:21:24.412Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bitzh_研院培养”。","plugin":"cli","timestamp":"2026-09-30T02:21:24.421Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“延河”。","plugin":"cli","timestamp":"2026-09-30T02:21:24.691Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_校医院”。","plugin":"cli","timestamp":"2026-09-30T02:21:25.684Z"}
+{"hook":"fetch_each.error","level":"error","message":"TypeError: fetch failed","plugin":"cli","timestamp":"2026-09-30T02:21:26.202Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“党政部”。","plugin":"cli","timestamp":"2026-09-30T02:21:26.202Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_研院培养”。","plugin":"cli","timestamp":"2026-09-30T02:21:26.521Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_助困入学”。","plugin":"cli","timestamp":"2026-09-30T02:21:26.581Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_学工部等”。","plugin":"cli","timestamp":"2026-09-30T02:21:26.598Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_报到须知”。","plugin":"cli","timestamp":"2026-09-30T02:21:26.734Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_贫困资助”。","plugin":"cli","timestamp":"2026-09-30T02:21:26.937Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“图书馆”。","plugin":"cli","timestamp":"2026-09-30T02:21:27.111Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“图书馆讲座”。","plugin":"cli","timestamp":"2026-09-30T02:21:27.162Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_人事”。","plugin":"cli","timestamp":"2026-09-30T02:21:27.406Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_教学中心”。","plugin":"cli","timestamp":"2026-09-30T02:21:27.531Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_入学提示”。","plugin":"cli","timestamp":"2026-09-30T02:21:27.583Z"}
+{"level":"warn","message":"未从“Bit_教务部”获取到任何通知。将忽略。","plugin":"cli","timestamp":"2026-09-30T02:21:27.781Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_教务部”。","plugin":"cli","timestamp":"2026-09-30T02:21:27.781Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_研究生院”。","plugin":"cli","timestamp":"2026-09-30T02:21:27.900Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_公开通知”。","plugin":"cli","timestamp":"2026-09-30T02:21:28.024Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_资实”。","plugin":"cli","timestamp":"2026-09-30T02:21:28.198Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_通用”。","plugin":"cli","timestamp":"2026-09-30T02:21:28.297Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_大创”。","plugin":"cli","timestamp":"2026-09-30T02:21:28.371Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_精工”。","plugin":"cli","timestamp":"2026-09-30T02:21:28.397Z"}
+{"hook":"fetch_each.error","level":"error","message":"TypeError: fetch failed","plugin":"cli","timestamp":"2026-09-30T02:21:28.471Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_人文素质”。","plugin":"cli","timestamp":"2026-09-30T02:21:28.471Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_勤工助学”。","plugin":"cli","timestamp":"2026-09-30T02:21:28.644Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_新生”。","plugin":"cli","timestamp":"2026-09-30T02:21:28.969Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_公开数据”。","plugin":"cli","timestamp":"2026-09-30T02:21:28.975Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_课程”。","plugin":"cli","timestamp":"2026-09-30T02:21:29.002Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_奖学设置”。","plugin":"cli","timestamp":"2026-09-30T02:21:29.784Z"}
+{"hook":"fetch_each.error","level":"error","message":"TypeError: fetch failed","plugin":"cli","timestamp":"2026-09-30T02:21:31.782Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“数学实验”。","plugin":"cli","timestamp":"2026-09-30T02:21:31.782Z"}
+{"level":"http","message":"Time is out when requesting “https://student.bit.edu.cn/tzgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-09-30T02:21:32.702Z"}
+{"level":"http","message":"Time is out when requesting “https://student.bit.edu.cn/xngs/index.blk.htm”. Retry later.","plugin":"retry","timestamp":"2026-09-30T02:21:32.704Z"}
+{"level":"http","message":"Time is out when requesting “https://itc.bit.edu.cn/tzgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-09-30T02:21:32.704Z"}
+{"level":"http","message":"Time is out when requesting “https://me.bit.edu.cn/tzgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-09-30T02:21:32.705Z"}
+{"level":"http","message":"Time is out when requesting “https://bit.edu.cn/tzgg17/zcgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-09-30T02:21:32.705Z"}
+{"level":"http","message":"Retry “https://student.bit.edu.cn/tzgg/index.htm”.","plugin":"retry","timestamp":"2026-09-30T02:21:42.704Z"}
+{"level":"http","message":"Retry “https://student.bit.edu.cn/xngs/index.blk.htm”.","plugin":"retry","timestamp":"2026-09-30T02:21:42.705Z"}
+{"level":"http","message":"Retry “https://itc.bit.edu.cn/tzgg/index.htm”.","plugin":"retry","timestamp":"2026-09-30T02:21:42.705Z"}
+{"level":"http","message":"Retry “https://me.bit.edu.cn/tzgg/index.htm”.","plugin":"retry","timestamp":"2026-09-30T02:21:42.706Z"}
+{"level":"http","message":"Retry “https://bit.edu.cn/tzgg17/zcgg/index.htm”.","plugin":"retry","timestamp":"2026-09-30T02:21:42.706Z"}
+{"level":"error","message":"访问“Bit_学生服务”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-09-30T02:21:52.705Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_学生服务”。","plugin":"cli","timestamp":"2026-09-30T02:21:52.706Z"}
+{"level":"error","message":"访问“Bit_资助公示”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-09-30T02:21:52.708Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_资助公示”。","plugin":"cli","timestamp":"2026-09-30T02:21:52.708Z"}
+{"level":"error","message":"访问“Bit_网信”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-09-30T02:21:52.708Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_网信”。","plugin":"cli","timestamp":"2026-09-30T02:21:52.709Z"}
+{"level":"error","message":"访问“Bit_机车”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-09-30T02:21:52.709Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_机车”。","plugin":"cli","timestamp":"2026-09-30T02:21:52.709Z"}
+{"level":"error","message":"访问“Bit_招采”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-09-30T02:21:52.709Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_招采”。","plugin":"cli","timestamp":"2026-09-30T02:21:52.710Z"}
+{"level":"info","message":"已按需保存到“output/notices.json”。","plugin":"cli","timestamp":"2026-09-30T02:21:52.714Z"}
+{"level":"info","message":"已保存到“output/feed.rss”。","plugin":"rss","timestamp":"2026-09-30T02:21:52.717Z"}
