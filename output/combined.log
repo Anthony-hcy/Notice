@@ -3506,3 +3506,157 @@
 {"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_资实”。","plugin":"cli","timestamp":"2026-10-02T02:34:09.368Z"}
 {"level":"info","message":"已按需保存到“output/notices.json”。","plugin":"cli","timestamp":"2026-10-02T02:34:09.371Z"}
 {"level":"info","message":"已保存到“output/feed.rss”。","plugin":"rss","timestamp":"2026-10-02T02:34:09.374Z"}
+{"level":"info","message":"发现35个通知来源。","plugin":"cli","timestamp":"2026-10-03T02:18:30.802Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_精工”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.805Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_研究生院”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.805Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bitzh_研究生院”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.805Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_通用”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.805Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_教务部”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.805Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_教学中心”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.805Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_学工部等”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.805Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_学生服务”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_大创”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_资助公示”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_网信”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_人事”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_公开数据”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_公开通知”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_校医院”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_新生”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_机车”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_人文素质”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_课程”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_招采”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_资实”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_报到须知”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_入学提示”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_助困入学”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_贫困资助”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_奖学设置”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_勤工助学”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bit_研院培养”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bitzh_研院招生”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“Bitzh_研院培养”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“党政部”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“数学实验”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“图书馆”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“图书馆讲座”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.before","level":"debug","message":"开始获取“延河”。","plugin":"cli","timestamp":"2026-10-03T02:18:30.806Z"}
+{"hook":"fetch_each.error","level":"error","message":"TypeError: fetch failed","plugin":"cli","timestamp":"2026-10-03T02:18:32.194Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“党政部”。","plugin":"cli","timestamp":"2026-10-03T02:18:32.194Z"}
+{"hook":"fetch_each.error","level":"error","message":"TypeError: fetch failed","plugin":"cli","timestamp":"2026-10-03T02:18:32.658Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“数学实验”。","plugin":"cli","timestamp":"2026-10-03T02:18:32.659Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_通用”。","plugin":"cli","timestamp":"2026-10-03T02:18:33.193Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_大创”。","plugin":"cli","timestamp":"2026-10-03T02:18:33.217Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_精工”。","plugin":"cli","timestamp":"2026-10-03T02:18:33.241Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bitzh_研院培养”。","plugin":"cli","timestamp":"2026-10-03T02:18:34.300Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bitzh_研究生院”。","plugin":"cli","timestamp":"2026-10-03T02:18:34.318Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bitzh_研院招生”。","plugin":"cli","timestamp":"2026-10-03T02:18:34.331Z"}
+{"hook":"fetch_each.error","level":"error","message":"TypeError: fetch failed","plugin":"cli","timestamp":"2026-10-03T02:18:34.586Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_人文素质”。","plugin":"cli","timestamp":"2026-10-03T02:18:34.586Z"}
+{"level":"http","message":"Time is out when requesting “https://grd.bit.edu.cn/tzgg1/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.817Z"}
+{"level":"http","message":"Time is out when requesting “https://jwb.bit.edu.cn/tzgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.817Z"}
+{"level":"http","message":"Time is out when requesting “https://jxzx.bit.edu.cn/tzgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.817Z"}
+{"level":"http","message":"Time is out when requesting “https://xgb.bit.edu.cn/xgdt/tzgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.818Z"}
+{"level":"http","message":"Time is out when requesting “https://student.bit.edu.cn/tzgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.818Z"}
+{"level":"http","message":"Time is out when requesting “https://student.bit.edu.cn/xngs/index.blk.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.818Z"}
+{"level":"http","message":"Time is out when requesting “https://itc.bit.edu.cn/tzgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.818Z"}
+{"level":"http","message":"Time is out when requesting “https://renshichu.bit.edu.cn/gbtzgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.818Z"}
+{"level":"http","message":"Time is out when requesting “https://xxgk.bit.edu.cn/zxgkxx/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.818Z"}
+{"level":"http","message":"Time is out when requesting “https://xxgk.bit.edu.cn/tzgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.818Z"}
+{"level":"http","message":"Time is out when requesting “https://xyy.bit.edu.cn/tzgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.820Z"}
+{"level":"http","message":"Time is out when requesting “https://hi.bit.edu.cn/rxbd/dttzyx/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.821Z"}
+{"level":"http","message":"Time is out when requesting “https://me.bit.edu.cn/tzgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.821Z"}
+{"level":"http","message":"Time is out when requesting “https://jxzx.bit.edu.cn/jxyx/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.821Z"}
+{"level":"http","message":"Time is out when requesting “https://bit.edu.cn/tzgg17/zcgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.821Z"}
+{"level":"http","message":"Time is out when requesting “https://zsc.bit.edu.cn/xwgg/tzgg/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.821Z"}
+{"level":"http","message":"Time is out when requesting “https://hi.bit.edu.cn/rxbd/bdxz/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.821Z"}
+{"level":"http","message":"Time is out when requesting “https://hi.bit.edu.cn/rxbd/rxts/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.821Z"}
+{"level":"http","message":"Time is out when requesting “https://hi.bit.edu.cn/zkjx/zkrx/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.821Z"}
+{"level":"http","message":"Time is out when requesting “https://hi.bit.edu.cn/zkjx/pkzz/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.821Z"}
+{"level":"http","message":"Time is out when requesting “https://hi.bit.edu.cn/zkjx/jxsz/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.822Z"}
+{"level":"http","message":"Time is out when requesting “https://hi.bit.edu.cn/zkjx/qgzx/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.822Z"}
+{"level":"http","message":"Time is out when requesting “https://grd.bit.edu.cn/pygz/pyxx/index.htm”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.822Z"}
+{"level":"http","message":"Time is out when requesting “https://lib.bit.edu.cn/engine2/general/1430281/type/more-datas”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.822Z"}
+{"level":"http","message":"Time is out when requesting “https://lib.bit.edu.cn/engine2/general/1387413/type/more-datas”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.822Z"}
+{"level":"http","message":"Time is out when requesting “https://cbiz.yanhekt.cn/v1/notice/list?with_brief=false”. Retry later.","plugin":"retry","timestamp":"2026-10-03T02:18:40.822Z"}
+{"level":"http","message":"Retry “https://grd.bit.edu.cn/tzgg1/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.818Z"}
+{"level":"http","message":"Retry “https://jwb.bit.edu.cn/tzgg/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.818Z"}
+{"level":"http","message":"Retry “https://jxzx.bit.edu.cn/tzgg/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.820Z"}
+{"level":"http","message":"Retry “https://xgb.bit.edu.cn/xgdt/tzgg/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.821Z"}
+{"level":"http","message":"Retry “https://student.bit.edu.cn/tzgg/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.821Z"}
+{"level":"http","message":"Retry “https://student.bit.edu.cn/xngs/index.blk.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.821Z"}
+{"level":"http","message":"Retry “https://itc.bit.edu.cn/tzgg/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.821Z"}
+{"level":"http","message":"Retry “https://renshichu.bit.edu.cn/gbtzgg/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.822Z"}
+{"level":"http","message":"Retry “https://xxgk.bit.edu.cn/zxgkxx/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.822Z"}
+{"level":"http","message":"Retry “https://xxgk.bit.edu.cn/tzgg/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.822Z"}
+{"level":"http","message":"Retry “https://xyy.bit.edu.cn/tzgg/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.824Z"}
+{"level":"http","message":"Retry “https://hi.bit.edu.cn/rxbd/dttzyx/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.824Z"}
+{"level":"http","message":"Retry “https://me.bit.edu.cn/tzgg/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.824Z"}
+{"level":"http","message":"Retry “https://jxzx.bit.edu.cn/jxyx/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.825Z"}
+{"level":"http","message":"Retry “https://bit.edu.cn/tzgg17/zcgg/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.825Z"}
+{"level":"http","message":"Retry “https://zsc.bit.edu.cn/xwgg/tzgg/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.825Z"}
+{"level":"http","message":"Retry “https://hi.bit.edu.cn/rxbd/bdxz/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.826Z"}
+{"level":"http","message":"Retry “https://hi.bit.edu.cn/rxbd/rxts/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.826Z"}
+{"level":"http","message":"Retry “https://hi.bit.edu.cn/zkjx/zkrx/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.826Z"}
+{"level":"http","message":"Retry “https://hi.bit.edu.cn/zkjx/pkzz/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.826Z"}
+{"level":"http","message":"Retry “https://hi.bit.edu.cn/zkjx/jxsz/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.826Z"}
+{"level":"http","message":"Retry “https://hi.bit.edu.cn/zkjx/qgzx/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.827Z"}
+{"level":"http","message":"Retry “https://grd.bit.edu.cn/pygz/pyxx/index.htm”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.827Z"}
+{"level":"http","message":"Retry “https://lib.bit.edu.cn/engine2/general/1430281/type/more-datas”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.827Z"}
+{"level":"http","message":"Retry “https://lib.bit.edu.cn/engine2/general/1387413/type/more-datas”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.827Z"}
+{"level":"http","message":"Retry “https://cbiz.yanhekt.cn/v1/notice/list?with_brief=false”.","plugin":"retry","timestamp":"2026-10-03T02:18:50.828Z"}
+{"level":"error","message":"访问“Bit_研究生院”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.820Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_研究生院”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.821Z"}
+{"level":"error","message":"访问“Bit_教务部”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.821Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_教务部”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.821Z"}
+{"level":"error","message":"访问“Bit_教学中心”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.823Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_教学中心”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.823Z"}
+{"level":"error","message":"访问“Bit_学工部等”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.824Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_学工部等”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.824Z"}
+{"level":"error","message":"访问“Bit_学生服务”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.824Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_学生服务”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.824Z"}
+{"level":"error","message":"访问“Bit_资助公示”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.825Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_资助公示”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.825Z"}
+{"level":"error","message":"访问“Bit_网信”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.825Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_网信”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.825Z"}
+{"level":"error","message":"访问“Bit_人事”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.825Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_人事”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.825Z"}
+{"level":"error","message":"访问“Bit_公开数据”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.826Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_公开数据”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.826Z"}
+{"level":"error","message":"访问“Bit_公开通知”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.826Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_公开通知”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.826Z"}
+{"level":"error","message":"访问“Bit_校医院”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.829Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_校医院”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.829Z"}
+{"level":"error","message":"访问“Bit_新生”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.829Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_新生”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.829Z"}
+{"level":"error","message":"访问“Bit_机车”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.829Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_机车”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.829Z"}
+{"level":"error","message":"访问“Bit_课程”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.830Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_课程”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.830Z"}
+{"level":"error","message":"访问“Bit_招采”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.830Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_招采”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.830Z"}
+{"level":"error","message":"访问“Bit_资实”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.830Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_资实”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.830Z"}
+{"level":"error","message":"访问“Bit_报到须知”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.831Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_报到须知”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.831Z"}
+{"level":"error","message":"访问“Bit_入学提示”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.831Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_入学提示”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.831Z"}
+{"level":"error","message":"访问“Bit_助困入学”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.831Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_助困入学”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.831Z"}
+{"level":"error","message":"访问“Bit_贫困资助”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.831Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_贫困资助”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.831Z"}
+{"level":"error","message":"访问“Bit_奖学设置”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.832Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_奖学设置”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.832Z"}
+{"level":"error","message":"访问“Bit_勤工助学”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.832Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_勤工助学”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.832Z"}
+{"level":"error","message":"访问“Bit_研院培养”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.832Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“Bit_研院培养”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.832Z"}
+{"level":"error","message":"访问“图书馆”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.833Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“图书馆”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.833Z"}
+{"level":"error","message":"访问“图书馆讲座”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.833Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“图书馆讲座”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.833Z"}
+{"level":"error","message":"访问“延河”（Timeout）超时，可能因为访问太频繁。将忽略。","plugin":"cli","timestamp":"2026-10-03T02:19:00.833Z"}
+{"hook":"fetch_each.after","level":"debug","message":"结束获取“延河”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.833Z"}
+{"level":"info","message":"已按需保存到“output/notices.json”。","plugin":"cli","timestamp":"2026-10-03T02:19:00.840Z"}
+{"level":"info","message":"已保存到“output/feed.rss”。","plugin":"rss","timestamp":"2026-10-03T02:19:00.842Z"}
